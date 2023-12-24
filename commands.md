@@ -4,6 +4,7 @@ create the docker-compose.yml file for postgres sql
 to create the database container: docker compose up jithindev-db -d
 to remove the database container:docker compose rm jithindev-db -s -f -v
 
+
 install prisma as developer dependency 
 instll @prisma/client 
 to start with prisma : npx prisma init - to intialise prisma configrations
